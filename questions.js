@@ -44,3 +44,6 @@ function questionMenu() {
        }
     });
 }
+
+
+module.exports = questions;
